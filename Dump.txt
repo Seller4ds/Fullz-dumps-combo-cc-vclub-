@@ -1,0 +1,18 @@
+4299200012113567|6/2026|263|SULEIMAN DABABNEH|||||JO|962796181333||--|94.249.2.249|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36
+4299200061019772|8/2026|663|Omar Abdelqader||||||962796006404|omarabdelqader1@hotmail.com|26-11-1988|46.32.125.17|Mozilla/5.0 (Linux; Android 10; LYA-L29) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36
+4299200077836359|5/2026|681|MAIS SADOUN|||||JO|962789180544||--|91.186.251.60|Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) CriOS/103.0.5060.63 Mobile/15E148 Safari/604.1
+4299200117089621|3/2027|345|JOUD SHAHIN|||||JO|962798039671||--|79.134.145.22|Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/15.4 Mobile/15E148 Safari/604.1
+4299200173118454|10/2027|604|MAHMOUD ABDELJABAR||||||962795909070|visacenter.jo@gmail.com|08-06-1983|86.108.22.215|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/108.0.0.0 Safari/537.36
+4299200185398789|5/2027|486|ABDELRAHMAN YAKHOLA|||||JO|9620775075036||--|176.29.131.37|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/104.0.0.0 Safari/537.36
+4299200200297693|2/2026|254|Odai Abusneineh|||||JO|9620798606167||--|109.237.202.11|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/101.0.4951.67 Safari/537.36
+4299200210269302|5/2026|447|Joud Halaseh|||||MM|959880590577||--|103.160.52.162|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+4299200245134331|5/2027|388|Yousef Adnan Qarout|||||QA|97477327379||--|51.39.228.206|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/106.0.0.0 Safari/537.36
+4299200272155803|8/2026|269|Abdullah daoudieh||||||||--|49.229.174.48|Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148
+4299200342639257|10/2024|004|ROCHELLE BULAN||||||||--|112.198.101.12|Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/15.5 Mobile/15E148 Safari/604.1
+4299200411181496|3/2026|334|Mahmoud alhayek|||||KW|96550562140||--|37.231.239.248|Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+4299200519198525|8/2024|280|Mohammad Alabed|||||||condail@yahoo.com|--|49.237.13.53|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/105.0.0.0 Safari/537.36
+4299200620807592|5/2024|460|sief aljamal|||||ID|628895597406||--|36.74.153.113|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/107.0.0.0 Safari/537.36
+4299200762242434|12/2026|774|Abdel shamieh|||||JO|962797905563||--|94.249.2.236|Mozilla/5.0 (iPhone; CPU iPhone OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) GSA/239.2.491423901 Mobile/15E148 Safari/604.1
+4299200777911478|12/2026|556|Sanad Jbara||||||601128833265|sanad.jbarah@gmail.com|03-08-1996|210.186.44.24|Mozilla/5.0 (iPad; CPU OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Mobile/15E148
+4299200783784893|12/2025|846|ALAA JEBRIL|||||JO|9620795835829||--|46.32.121.11|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Safari/537.36
+4299200806839757|8/2024|285|Wseem alashqar||||||||--|58.71.159.110|Mozilla/5.0 (Linux; Android 10; SM-N960F) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36
